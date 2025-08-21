@@ -3,9 +3,11 @@
 **Bu bot sadece test amaçlı kullanılmalıdır!** Gerçek sunucularda kullanmak Discord kurallarına aykırı olabilir ve hesabınızın kapatılmasına neden olabilir.
 
 ## Kurulum
-1. **Gerekli paketleri yükleyin:**
-client.login("TOKEN"); Kısmına Tokeninizi Yazınız!
+1. **Gerekli yerlere tokeninizi girin:**
 
+   ```bash
+ client.login("TOKEN");
+   ```
 
 2. **Gerekli paketleri yükleyin:**
    ```bash
@@ -33,4 +35,5 @@ client.login("TOKEN"); Kısmına Tokeninizi Yazınız!
 ## Güvenlik
 
 Bu bot sadece test ortamlarında kullanılmalıdır. Gerçek sunucularda kullanmak Discord ToS'a aykırıdır.
+
 
