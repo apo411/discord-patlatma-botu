@@ -12,11 +12,7 @@ client.login("TOKEN"); Kısmına Tokeninizi Yazınız!
    npm install
    ```
 
-3. **Discord Bot Token'ınızı ayarlayın:**
-   - `.env` dosyası oluşturun
-   - İçine şunu yazın: `DISCORD_TOKEN=your_bot_token_here`
-
-4. **Bot'u çalıştırın:**
+3. **Bot'u çalıştırın:**
    ```bash
    npm start
    ```
@@ -37,3 +33,4 @@ client.login("TOKEN"); Kısmına Tokeninizi Yazınız!
 ## Güvenlik
 
 Bu bot sadece test ortamlarında kullanılmalıdır. Gerçek sunucularda kullanmak Discord ToS'a aykırıdır.
+
