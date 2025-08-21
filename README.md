@@ -5,8 +5,9 @@
 ## Kurulum
 1. **Gerekli yerlere tokeninizi girin:**
 
-   ```bash
- client.login("TOKEN");
+
+```bash
+   client.login("Token");
    ```
 
 2. **Gerekli paketleri yükleyin:**
@@ -35,5 +36,6 @@
 ## Güvenlik
 
 Bu bot sadece test ortamlarında kullanılmalıdır. Gerçek sunucularda kullanmak Discord ToS'a aykırıdır.
+
 
 
